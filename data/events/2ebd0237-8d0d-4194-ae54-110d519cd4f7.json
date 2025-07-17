@@ -1,0 +1,47 @@
+{
+  "audiovisual_files": {
+    "89721755-bd96-48cf-a89d-ea0621a1dd0c": {
+      "label": "Sound Recording Video",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://vimeo.com/24858149?p=1t",
+      "duration": 762,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This video was uploaded in June 2011 by Dr Merle Patchett, as part of a blog post entitled "
+        },
+        {
+          "text": "Sound Recording Tutorial from Wildlife Sound Recordist John Acorn",
+          "italic": true,
+          "link": "https://merlepatchett.wordpress.com/2011/06/09/sound-recording-tutorial-from-wildlife-sound-recordist-dr-john-acorn/"
+        },
+        {
+          "text": ". This video is made available through a "
+        },
+        {
+          "text": "CC BY-NC-SA 3.0 license",
+          "link": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "text": ". CC Dr Merle Patchett 2011.\n\n\n"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Sounds Recording",
+  "rights_statement": "",
+  "created_at": "2025-07-17T17:14:20.388Z",
+  "created_by": "ndamours14",
+  "updated_at": "2025-07-17T17:14:20.388Z",
+  "updated_by": "ndamours14"
+}
