@@ -1,0 +1,31 @@
+{
+  "audiovisual_files": {
+    "a57545b6-a53f-4169-ae36-621916745814": {
+      "label": "Field Recording Basics Video",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=-QRin6d-ojg",
+      "duration": 1375,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Field Recording Basics",
+  "created_at": "2025-07-17T17:23:10.486Z",
+  "created_by": "ndamours14",
+  "updated_at": "2025-07-17T17:23:10.486Z",
+  "updated_by": "ndamours14"
+}
